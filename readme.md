@@ -2,8 +2,6 @@
 
 [![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://supportukrainenow.org)
 
-![Orchid Platform Repeater Field](screenshots/repeater.jpg?raw=true)
-
 ## Brief
 
 We've all worked with WordPress at one time or another. Inspired
